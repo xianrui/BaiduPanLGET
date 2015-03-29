@@ -1,0 +1,11 @@
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.Main.resources
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\bin\Debug\BaiduPanLGET.exe
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\bin\Debug\BaiduPanLGET.pdb
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\bin\Debug\Newtonsoft.Json.dll
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\bin\Debug\Newtonsoft.Json.xml
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.exe
+c:\users\jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.pdb
+C:\Users\Jonathan\documents\visual studio 2013\Projects\BaiduPanLGET\BaiduPanLGET\obj\Debug\BaiduPanLGET.captcha.resources
